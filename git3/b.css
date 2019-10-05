@@ -5,4 +5,5 @@ body{
     font: 100;
     font-family: 'Courier New', Courier, monospace;
     color: tomato;
+    mask-type: alpha;
 }
